@@ -1,5 +1,5 @@
 {
-  "name": "code-push-standalone-cli",
+  "name": "code-push-cli",
   "version": "0.0.1",
   "description": "Management CLI for the CodePush StandAlone service",
   "main": "./script/cli.js",
